@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>HTML Coffee Project</title>
+</head>
+<body>
+
+    <!--Select box 
+        <form>
+        <p>Please select ypur favourite programming language?</p>
+        <select name="languages" multiple>
+            <option  value="java">Java</option>
+            <option>python</option> Even if I do not write value attribute, the data is sending
+            <option>JJavascript</option>
+
+        </select> <br>
+        <input type="submit">
+
+    </form> -->
+
+
+    <!--Checkbox 
+        <form>
+        <input type="checkbox"> Javascript <br>
+        <input type="checkbox" name="srk" value="java"> Java <br>
+        <label>
+        <input type="checkbox" name="srk" value="python"> Python <br></label>
+
+        <input type="submit">
+
+    </form> -->
+
+    <!--Radio button 
+        <form action="" method="" >
+
+        <p>Description</p>
+        <textarea name="" id="" cols="30" rows="10"></textarea>
+        <br>
+        <p>Please select ypur favourite programming language?</p>
+        <input type="radio" name="language"  value="javascript">Javascript <br>
+        <input type="radio" name="language" value="java">Java <br>
+        <input type="radio" name="language" value="python">Python <br>
+
+        <button type="submit">submit</button>
+
+    </form>
+ -->
+
+    <!--Form, input, name and value attribute 
+        <form action="" method="">
+        <label for="UserInput">First Name</label>
+        <input type="text" name="srikanth" id="UserInput"> <br>
+        <p>password</p>
+        <input type="password" placeholder="password" value="abc123" >
+        <br>
+        <input type="email" name="" id="">
+        <br>
+         <button type="submit">submit</button>
+        <input type="submit">
+        
+
+    </form> -->
+</body>
+</html>
